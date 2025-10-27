@@ -21,7 +21,7 @@ body {
 }
 
 .principal {
-    background-image: url("img/cestas.cen.png");
+    background-image: url("cestas.cen.png");
     background-repeat: no-repeat;
     background-size: contain;
     align-items: center;
